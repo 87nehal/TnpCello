@@ -2,6 +2,20 @@
 
 Welcome to the KIIT TNP Assist project, an innovative solution designed to revolutionize the training and placement process for students and professionals alike. Leveraging the power of OpenAI and Qdrant, combined with the LangChain framework, this project aims to provide a comprehensive platform for career development, job opportunities, and personalized assistance.
 
+## Pages
+
+- **Index Page**: Displays general information about the tool.
+![Index](https://raw.githubusercontent.com/87nehal/TnpCello/main/Screenshots/SS1.png)
+
+- **Jobs**: Displays available jobs from csv file scrapped from various sources.
+![Jobs](https://raw.githubusercontent.com/87nehal/TnpCello/main/Screenshots/SS2.png)
+
+- **Resume Creator**: Allows users to generate a custom resume based on users inputs.
+![**Resume Creator](https://raw.githubusercontent.com/87nehal/TnpCello/main/Screenshots/SS3.png)
+
+- **Suppourt Page**: Chat based on LLVM OpenAI Embeddings and custom trained on information stored in Qdrant.
+![Suppourt Page](https://raw.githubusercontent.com/87nehal/TnpCello/main/Screenshots/SS4.png)
+
 ## Features
 
 ### AI-Powered Chat Support
